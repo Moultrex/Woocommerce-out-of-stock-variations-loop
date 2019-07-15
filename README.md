@@ -11,3 +11,5 @@ How to use:
 See [Demo](https://youtu.be/8k9RuIa0rJA)
 
 IMPORTANT: Uncheck 'Hide out of stock items from the catalog' (Woocommerce -> Settings -> Products -> Stock)
+
+I will update the code and post a new one completely re-written.
